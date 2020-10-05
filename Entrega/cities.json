@@ -1,0 +1,52 @@
+[
+    {
+        "cityName": "Olinda",
+        "country": "Brazil",
+        "famousFor": "Carnaval"
+    },
+    {
+        "cityName": "Recife",
+        "country": "Brazil",
+        "famousFor": "Porto digital"
+    },
+    {
+        "cityName": "New york",
+        "country": "USA",
+        "famousFor": "Broadway"
+    },
+    {
+        "cityName": "Bordeaux",
+        "country": "France",
+        "famousFor": "Wines"
+    },
+    {
+        "cityName": "Machu Picchu",
+        "country": "Peru",
+        "famousFor": "Incas ancient city" 
+    },
+    {
+        "cityName": "Alexandria",
+        "country": "Egypt",
+        "famousFor": "Alexandria Library"
+    },
+    {
+        "cityName": "Cali",
+        "country": "Colombia",
+        "famousFor": "Salsa dance"
+    },
+    {
+        "cityName": "Belém",
+        "country": "Brazil",
+        "famousFor": "Mercado do peixe"
+    },
+    {
+        "cityName": "Toronto",
+        "country": "Canada",
+        "famousFor": "Multicultural city"
+    },
+    {
+        "cityName": "Porto",
+        "country": "Portugal",
+        "famousFor": "Natural Beauties"
+    }
+]
