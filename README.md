@@ -18,7 +18,7 @@
 
 ---
 
-Alguns comandos:
+**Alguns comandos**:
 
 ```pwd```: exibe o nome da pasta/diretório atual;  
 
@@ -27,5 +27,5 @@ Alguns comandos:
 ```mkdir <nomeDaPasta>```: cria uma pasta pelo terminal;  
 
 ```code .```: abrirá tudo no seu programa de codificação (ex: VSCode); 
- 
+
 ```node <nomeDoArquivo>```: rodará o conteúdo do arquivo no terminal
