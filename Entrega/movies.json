@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Parasite",
+        "productionYear": 2019,
+        "country": "South Korea",
+        "cast": ["Song Kang-Ho", "Chol Woo-Sik", "Jo Yeo-Jeong", "Jang Hye-Jin", "Park So-Dam"]
+    },
+    {
+        "title": "La vie d'Adèle",
+        "productionYear": 2013,
+        "country": ["Belgium", "Spain", "France"],
+        "cast": ["Léa Seydoux", "Adèle Exarchopoulos", "Salim Kechiouche"]
+    },
+    {
+        "title": "Le Fabuleux Destin D'Amélie Poulain",
+        "productionYear": 2001,
+        "country": ["Germany", "France"],
+        "cast": ["Audrey Tautou", "Mathieu Kassovitz", "Rufus"]
+    },
+    {
+        "title": "Life of Pi",
+        "productionYear": 2012,
+        "country": ["Canada", "USA", "United Kingdom", "Taiwan"],
+        "cast": ["Suraj Sharma", "Irrfan Khan"]
+    },
+    {
+        "title": "Bacurau",
+        "productionYear": 2019,
+        "country": ["Brazil", "France"],
+        "cast": ["Bárbara Colen", "Thomas Aquino", "Silvero Pereira", "Udo Kier", "Karine Teles", "Sônia Braga"]
+    },
+    {
+        "title": "Flashdance",
+        "productionYear": 1983,
+        "country": "USA",
+        "cast": ["Jennifer Beals", "Michael Nouri", "Lilia Skala"]
+    },
+    {
+        "title": "The Lord of the Rings The Return of The King",
+        "productionYear": 2003,
+        "country": ["USA", "New Zealand"],
+        "cast": ["Elijah Wood", "Noel Appleby", "Ali Astin", "Viggo Mortensen"]
+    },
+    {
+        "title": "The Theory Of Everything",
+        "productionYear": 2014,
+        "country": ["USA", "Japan", "United Kingdom"],
+        "cast": ["Eddie Redmayne", "Felicity Jones", "Tom Prior"]
+    },
+    {
+        "title": "Intouchables",
+        "productionYear": 2012,
+        "country": "France",
+        "cast": ["François Cluzet", "Omar Sy", "Audrey Fleurot"]
+    },
+    {
+        "title": "Wall-E",
+        "productionYear": 2008,
+        "country": "USA",
+        "cast": ["Ben Burtt", "Elissa Knight", "Jess Garlin"]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "animal": "snake",
+        "class": "reptile",
+        "feeding": "carnivore"
+    },
+    {
+        "animal": "cat",
+        "class": "mammal",
+        "feeding": "carnivore"
+    },
+    {
+        "animal": "eagle",
+        "class": "bird",
+        "feeding": "carnivore"
+    },
+    {
+        "animal": "cow",
+        "class": "mammal",
+        "feeding": "herbivore"
+    },
+    {
+        "animal": "spider",
+        "class": "arachnid",
+        "feeding": "carnivore"
+    },
+    {
+        "animal": "elephant",
+        "class": "mammal",
+        "feeding": "herbivore"
+    },
+    {
+        "animal": "butterfly",
+        "class": "insect",
+        "feeding": "herbivore"
+    },
+    {
+        "animal": "bee",
+        "class": "insect",
+        "feeding": "herbivore"
+    },
+    {
+        "animal": "ants",
+        "class": "insect",
+        "feeding": ["herbivore", "carnivore", "omnivore"]
+    },
+    {
+        "animal": "men",
+        "class": "mammal",
+        "feeding": "omnivore"
+    }
+]
