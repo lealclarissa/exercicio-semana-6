@@ -22,8 +22,9 @@
 
 ```pwd```: exibe o nome da pasta/diretório atual;   
 ```cd <nomeDaPasta>```: acessa a pasta informada;    
-```mkdir <nomeDaPasta>```: cria uma pasta pelo terminal;   
-```code .```: abrirá tudo no seu programa de codificação (ex: VSCode);   
+```mkdir <nomeDaPasta>```: cria uma pasta;   
+```touch <nomeDoArquivo>```: cria um arquivo;   
+```code .```: abrirá o diretório atual na sua IDE (ex: VSCode);   
 ```node <nomeDoArquivo>```: rodará o conteúdo do arquivo no terminal.   
 
 ## Atividade da semana
